@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**thekinita/thekinita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```css
+┌[thekinita@git]-(~)
+└> mefetch
+```
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+  
+  ```css
+  thekinita@GitHub
+  -----------------
+  Name: nikita
+  OS: Arch Linux
+  Frontend stack: ["JavaScript", "TypeScript", "Next.js"]
+  Backend stack: ["TypeScript", "Node.js", "Sequelize", "Prisma"]
+  Intrests: ["Web-developing", "Linux"]  
+  Uptime: 25 Years
+  ```
+</div>
+
+
+
+<br />
+<p align="center">
+  <samp>
+    <a href="https://t.me/@thekinita" target="_blank">telegram</a> .
+    <a href="https://discordapp.com" target="_blank">discord</a> $
+  </samp>
+</p>
+
+
+
+
+
+
