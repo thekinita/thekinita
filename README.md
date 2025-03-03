@@ -26,7 +26,7 @@
 <p align="center">
   <samp>
     <a href="https://t.me/@thekinita" target="_blank">telegram</a> .
-    <a href="https://discordapp.com" target="_blank">discord</a> $
+    <a href="https://discordapp.com/users/988460996383342602" target="_blank">discord</a> $
   </samp>
 </p>
 
