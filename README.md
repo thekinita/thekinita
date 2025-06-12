@@ -6,17 +6,34 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://cdn.lospec.com/gallery/birbspeengif-714624.gif" border="0" style="width:156px;">
   
   ```css
   thekinita@GitHub
   -----------------
   Name: nikita
-  OS: Arch Linux
-  Frontend stack: ["JavaScript", "TypeScript", "Next.js"]
-  Backend stack: ["TypeScript", "Node.js", "Sequelize", "Prisma"]
-  Intrests: ["Web-developing", "Linux"]  
-  Uptime: 25 Years
+  Frontend: [
+      {"Frameworks & Libraries":
+          ["React", "TypeScript", "Next.js", "Redux", "Tanstack"]
+      },
+      {"CSS Frameworks & Styling":
+          ["Tailwind CSS", "Chakra UI", "Material UI", "Emotion", "Framer-motion", "Headless", "shadcn"]
+      }
+  ]
+  Backend:[
+      {"Server-side technologies":
+          ["Node.js", "TypeScript", "Express", "Nest.js"]
+      },
+      {"ORM/ODM":
+          ["Sequelize", "Prisma"]
+      },
+      {"Database":
+          ["PostgreSQL", "MongoDB"]
+      }
+  ]
+  Integrations: ["Telegram Mini Apps", "Telegraf", "TON", "CryptoBot API"]
+  Intrests: ["Web-developing", "Linux", "Pixel-art"]  
+  Uptime: 2 Years
   ```
 </div>
 
