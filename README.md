@@ -17,7 +17,8 @@
           ["React", "TypeScript", "Next.js", "Redux", "Tanstack"]
       },
       {"CSS Frameworks & Styling":
-          ["Tailwind CSS", "Chakra UI", "Material UI", "Emotion", "Framer-motion", "Headless", "shadcn"]
+          ["Tailwind CSS", "Chakra UI", "Material UI",
+          "Emotion", "Framer-motion", "Headless", "shadcn"]
       }
   ]
   Backend:[
