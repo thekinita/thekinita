@@ -33,7 +33,7 @@
       }
   ]
   Integrations: ["Telegram Mini Apps", "Telegraf", "TON", "CryptoBot API"]
-  Intrests: ["Web-developing", "Linux", "Pixel-art"]  
+  Interests: ["Web-developing", "Linux", "Pixel-art"]  
   Uptime: 2 Years
   ```
 </div>
@@ -44,7 +44,7 @@
 <p align="center">
   <samp>
     <a href="https://t.me/@thekinita" target="_blank">telegram</a> .
-    <a href="https://discordapp.com/users/988460996383342602" target="_blank">discord</a> $
+    <a href="https://discordapp.com/users/988460996383342602" target="_blank">discord</a>
   </samp>
 </p>
 
